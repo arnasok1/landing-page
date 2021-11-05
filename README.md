@@ -1,0 +1,1 @@
+This is an assignment from the odin project. It's going to solidify my knowledge about CSS Flexbox.
